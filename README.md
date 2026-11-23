@@ -6,6 +6,7 @@
 ![Wiki search](https://img.shields.io/badge/Wiki-search-0A66C2)
 ![Cited answers](https://img.shields.io/badge/answers-cited-2EA043)
 ![Status](https://img.shields.io/badge/status-live-2EA043)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 <img src="assets/stats.svg" alt="Cited answers, daily refresh, 5 evaluation layers, 6 failure types" width="900" />
 
@@ -13,7 +14,7 @@
 
 ## Contents
 
-[At a glance](#at-a-glance) · [What it does](#what-it-does) · [How a question is handled](#how-a-question-is-handled) · [Architecture](#architecture) · [Keeping answers current](#keeping-answers-current) · [Quality](#quality) · [Design choices](#design-choices) · [Roadmap](#roadmap)
+[At a glance](#at-a-glance) · [What it does](#what-it-does) · [How a question is handled](#how-a-question-is-handled) · [Architecture](#architecture) · [Keeping answers current](#keeping-answers-current) · [Quality](#quality) · [Design choices](#design-choices) · [Roadmap](#roadmap) · [License](#license)
 
 ---
 
@@ -105,3 +106,7 @@ Ask in chat, get the answer and the wiki pages behind it, in a private message.
 | **Memory** | Remember context per person. Spot the questions asked most and answered least. |
 | **Multi-step help** | Follow a procedure across pages. Draft update requests for missing content, with a person approving. |
 | **More sources** | Refresh when pages change. Connect other team systems for live answers. |
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
