@@ -14,7 +14,7 @@
 
 ## Contents
 
-[At a glance](#at-a-glance) · [What it does](#what-it-does) · [How a question is handled](#how-a-question-is-handled) · [Architecture](#architecture) · [Keeping answers current](#keeping-answers-current) · [Quality](#quality) · [Design choices](#design-choices) · [Roadmap](#roadmap) · [License](#license)
+[At a glance](#at-a-glance) · [What it does](#what-it-does) · [Screenshots](#screenshots) · [How a question is handled](#how-a-question-is-handled) · [Architecture](#architecture) · [Keeping answers current](#keeping-answers-current) · [Quality](#quality) · [Design choices](#design-choices) · [Roadmap](#roadmap) · [License](#license)
 
 ---
 
@@ -39,6 +39,31 @@ Ask in chat, get the answer and the wiki pages behind it, in a private message.
 | 🔗 **Verifiable** | Links are copied exactly from the wiki. If a link can't be copied accurately, it is left out. |
 | 📚 **Grounded** | The wiki wins over public sources. If two pages disagree, both are shown. |
 | 🔒 **Private** | Answers arrive as a direct message. |
+
+## Screenshots
+
+> [!NOTE]
+> Illustrative mockups with sample content, not real captures. The wiki links use a placeholder domain.
+
+<div align="center">
+<img src="assets/demo-1-cited-answer.png" alt="Cited, conversational answers" width="900" />
+</div>
+
+<div align="center">
+<img src="assets/demo-2-general-answer.png" alt="Knows when it is not a wiki question" width="900" />
+</div>
+
+<div align="center">
+<img src="assets/demo-3-honest-gaps.png" alt="Honest when the wiki has no answer" width="900" />
+</div>
+
+<div align="center">
+<img src="assets/demo-4-feedback.png" alt="One-tap feedback" width="900" />
+</div>
+
+<div align="center">
+<img src="assets/demo-5-weekly-review.png" alt="Every failure gets a root cause" width="900" />
+</div>
 
 ## How a question is handled
 
